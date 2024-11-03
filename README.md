@@ -106,6 +106,6 @@ https://puzzle-swordtail-583.notion.site/API-314dc29d1bcf410fac72a21c5a93ad06
 ## 🥭 팀 망고시루
 |![image](https://github.com/user-attachments/assets/7981a550-02a9-42fb-9bef-d445d149211f)|![image](https://github.com/user-attachments/assets/c6eae053-147b-40ff-89db-43578cf17669)|![image](https://github.com/user-attachments/assets/9856718a-1113-42f4-a9fd-4efebbcee36c)|![image](https://github.com/user-attachments/assets/0c507e5e-3290-4ee7-a29c-9d322dbd9072)|![image](https://github.com/user-attachments/assets/3b24c8ed-9c15-46e1-8029-f3c00bce943b)|![image](https://github.com/user-attachments/assets/70cdec83-9388-480f-b3f5-51c9253da238)|
 |---|---|---|---|---|---|
-|**안준식(PM)**|[**서영진 (BE)**](https://github.com/seoyoungjin23)|[**조현아 (BE)**](https://github.com/tenius10)|[**김동한 (FE)**](https://github.com/Han961004)|[**황연지 (FE)**](https://github.com/leumi802)|[**이예지 (FE, UI/UX)**](https://github.com/yeahzee0421)|
+|**안준식(PM)**|[**서영진 (BE)**](https://github.com/seoyoungjin23)|[**조현아 (BE)**](https://github.com/tenius10)|[**김동한 (BE)**](https://github.com/Han961004)|[**황연지 (FE)**](https://github.com/leumi802)|[**이예지 (FE, UI/UX)**](https://github.com/yeahzee0421)|
 |▪️ 기획<br/>▪️ 서류 작업|▪️ 캘린더<br/>▪️ 월별 리포트|▪️ JWT 인증<br/>▪️ 식단 챌린지|▪️ 챌린지 화면|▪️ 캘린더 화면|▪️ 인증 화면<br/>▪️ 메인 화면<br/>▪️ 식단 기록 화면|
 
