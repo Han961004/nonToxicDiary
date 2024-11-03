@@ -49,7 +49,7 @@
 
 <table>
   <tr> 
-    <td><img src="https://github.com/user-attachments/assets/91041894-a3af-4e38-95f7-cfc9f9329c4f" width="450" height="500"></td> 
+    <td><img src="https://github.com/user-attachments/assets/91041894-a3af-4e38-95f7-cfc9f9329c4f" width="500"></td> 
     <td><b>회원가입 -</b> 아이디, 비밀번호, 닉네임으로 계정을 생성합니다.<br/><b>로그인 -</b> 아이디 및 비밀번호로 로그인합니다.<br/><b>로그아웃 -</b> 로그아웃 후 로그인 페이지로 돌아옵니다.</td> 
   </tr>
 </table>
@@ -59,7 +59,7 @@
 
  <table>
   <tr> 
-    <td><img src="https://github.com/user-attachments/assets/723477f6-a69c-4723-8de6-f3f44c844d80" width="450" height="500"></td> 
+    <td><img src="https://github.com/user-attachments/assets/723477f6-a69c-4723-8de6-f3f44c844d80" width="500"></td> 
     <td><b>섭취 기록 조회 (주/일) -</b> 주/일 단위로 고자극 음식<br/> 섭취 기록을 확인합니다.<br/><b>섭취 기록 등록 -</b> 오늘 섭취한 고자극 음식을 기록합니다.<br/></td> 
   </tr>
 </table>
@@ -69,7 +69,7 @@
 
  <table>
   <tr> 
-    <td><img src="https://github.com/user-attachments/assets/44fe9825-4654-4c66-a4bf-1238434da025" width="450" height="500"></td> 
+    <td><img src="https://github.com/user-attachments/assets/44fe9825-4654-4c66-a4bf-1238434da025" width="500"></td> 
     <td><b>섭취 기록 분석 -</b> 월 단위로 섭취한 음식을 분석합니다.</td> 
   </tr>
 </table>
@@ -79,13 +79,13 @@
 
  <table>
   <tr> 
-    <td><img src="https://github.com/user-attachments/assets/f8b7f134-5c98-436b-9688-6a1b8f105f83" width="450" height="500"></td> 
+    <td><img src="https://github.com/user-attachments/assets/f8b7f134-5c98-436b-9688-6a1b8f105f83" width="500"></td> 
     <td><b>식단 챌린지 -</b> 진행 중인/완료한 챌린지를 조회합니다.</td> 
   </tr>
 </table>
  <table>
   <tr> 
-    <td><img src="https://github.com/user-attachments/assets/438fe737-54b8-4533-8f19-82b17c9d0fad" width="450" height="500"></td> 
+    <td><img src="https://github.com/user-attachments/assets/438fe737-54b8-4533-8f19-82b17c9d0fad" width="500"></td> 
     <td><b>금지 식단 지정 -</b> 일정 기간동안 고자극 음식을<br/> 섭취하지 않는 챌린지를 생성합니다.</td> 
   </tr>
  </table>
